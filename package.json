@@ -1,0 +1,27 @@
+{
+  "name": "lightning-scatter-3",
+  "version": "0.0.0",
+  "dependencies": {
+    "brfs": "^1.4.0",
+    "d3-color": "^0.2.4",
+    "lightning-client-utils": "^0.6.3",
+    "lightning-visualization": "^0.0.6",
+    "lodash": "^3.8.0",
+    "three-fly-controls": "^1.1.0",
+    "three.js": "lightning-viz/three.js"
+  },
+  "keywords": [
+    "lightning-visualization"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "lightning": {
+    "name": "scatter-3"
+  }
+}
