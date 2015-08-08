@@ -5,7 +5,7 @@
     "brfs": "^1.4.0",
     "d3-color": "^0.2.4",
     "lightning-client-utils": "^0.6.3",
-    "lightning-visualization": "^0.0.6",
+    "lightning-visualization": "^0.1.1",
     "lodash": "^3.8.0",
     "three-fly-controls": "^1.1.0",
     "three.js": "lightning-viz/three.js"
