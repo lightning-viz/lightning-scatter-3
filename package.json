@@ -1,6 +1,6 @@
 {
   "name": "lightning-scatter-3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {
     "brfs": "^1.4.0",
     "d3-color": "^0.2.4",
